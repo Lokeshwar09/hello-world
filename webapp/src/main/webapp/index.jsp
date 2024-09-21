@@ -24,7 +24,8 @@
         <select id="country" name="country">
           <option value="australia">Australia</option>
           <option value="canada">Canada</option>
-          <option value="usa">USA</option>
+	  <option value="India">IND</option>
+	  <option value="usa">USA</option>
         </select>
       </div>
     </div>
